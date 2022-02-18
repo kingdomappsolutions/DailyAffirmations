@@ -10,6 +10,10 @@
 
 # production
 /build
+/resources/android/icon
+/resources/android/splash
+/resources/ios/icon
+/resources/ios/splash
 
 # misc
 .DS_Store

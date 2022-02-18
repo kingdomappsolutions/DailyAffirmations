@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632855821500",
+    "project_id": "daily-affirmations-jroapps",
+    "storage_bucket": "daily-affirmations-jroapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632855821500:android:22125b20dd4b4cb48624b9",
+        "android_client_info": {
+          "package_name": "tech.jroapps.dailyaffirmations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632855821500-fsvv6dd2a200oa5090sn6gb1nldf18sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlt6Epj721OfqrL-eND0CxmHn6fKD6Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632855821500-fsvv6dd2a200oa5090sn6gb1nldf18sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

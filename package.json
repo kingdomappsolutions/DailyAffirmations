@@ -1,9 +1,14 @@
 {
-  "name": "DailyAffirmations",
+  "name": "tech.jroapps.daily-affirmations",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "^3.3.4",
+    "@capacitor/app": "^1.0.7",
     "@capacitor/core": "3.3.4",
+    "@capacitor/ios": "^3.3.4",
+    "@capacitor/push-notifications": "^1.0.9",
+    "@capacitor/splash-screen": "^1.2.0",
     "@ionic/react": "^6.0.0",
     "@ionic/react-router": "^6.0.0",
     "@testing-library/jest-dom": "^5.11.9",
@@ -38,9 +43,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
@@ -63,5 +66,5 @@
   "devDependencies": {
     "@capacitor/cli": "3.3.4"
   },
-  "description": "An Ionic project"
+  "description": "An app to give daily affirmations."
 }

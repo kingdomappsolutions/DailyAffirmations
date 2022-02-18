@@ -1,0 +1,27 @@
+.affirmation-card {
+    color: black;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.icon-color {
+    color: #8012a1;
+}
+
+.toolbar-button{
+    margin-right: 15px;
+}
+
+.container {
+    height: 100%;
+    display: -webkit-flexbox;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    justify-content: center;
+}
